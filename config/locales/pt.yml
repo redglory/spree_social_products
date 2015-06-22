@@ -1,0 +1,23 @@
+---
+pt:
+  spree:
+    social:
+      bookmark_or_share_this: Guardar ou Partilhar
+      social_sharing_settings_description: Activar ou desactivar a partilha para estas redes sociais nas páginas de produtos
+      social_sharing_settings_updated: Definições de partilha actualizadas com sucesso.
+      settings: Definições de Partilha nas Redes Sociais
+      service_settings: Definições de Serviço
+      facebook_settings: Definições do Facebook
+      buttons:
+        delicious: Delicious
+        submit_to_reddit: Enviar para o Reddit
+        share_on_tumblr: Partilhar no Tumblr
+        tweet: Tweet
+      preferences:
+        service_button: 'Botão de %{service}'
+        facebook_layout: Tipo de Botão
+        facebook_app_id: Facebook App ID
+        facebook_show_faces: Mostrar Caras no Facebook
+        facebook_verb_to_display: Expressão a Mostrar
+        facebook_color_scheme: Esquema de Cores
+        facebook_send_button: Botão Partilha
